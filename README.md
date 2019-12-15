@@ -1,0 +1,1 @@
+Rock Paper Scissors helped me learn the basics of functions, if statements, and variables.
